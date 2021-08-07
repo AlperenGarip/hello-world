@@ -7,3 +7,6 @@ asdplas
  pla
  
  aps
+
+deneme 2 
+deneme 
